@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OceAufgaben/1.0.0": {
+        "runtime": {
+          "OceAufgaben.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OceAufgaben/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/bin/Debug/net5.0/OceAufgaben.deps.json
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/bin/Debug/net5.0/OceAufgaben.runtimeconfig.json
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/bin/Debug/net5.0/OceAufgaben.runtimeconfig.dev.json
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/bin/Debug/net5.0/OceAufgaben.dll
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/bin/Debug/net5.0/ref/OceAufgaben.dll
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/bin/Debug/net5.0/OceAufgaben.pdb
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.csproj.AssemblyReference.cache
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.AssemblyInfoInputs.cache
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.AssemblyInfo.cs
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.csproj.CoreCompileInputs.cache
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.dll
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/ref/OceAufgaben.dll
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.pdb
+/Users/geraldmontufar/RiderProjects/OceAufgaben/OceAufgaben/obj/Debug/net5.0/OceAufgaben.genruntimeconfig.cache
