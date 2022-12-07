@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+NN3lprlr3ggcjWw8RP1f+K8DfRG9jCnTG2dciZFYwlCFvsJ5spJkiSRYXBY6PAkjiPCChli/I+eGqr4gP3WQ==",
+  "dgSpecHash": "VZ9O/4+df1WnSodqfkT3zRZ85aPiymbqxTPyUDp3CgFpif8c9JyaS3iABIUVoLXM8863NrSOb2YgaIoWutUkKA==",
   "success": true,
-  "projectFilePath": "/Users/geraldmontufar/SAE/OceAufgaben/OceAufgaben/OceAufgaben.csproj",
+  "projectFilePath": "/Users/geraldmontufar/SAE/OceAufaben/OceAufgaben/OceAufgaben.csproj",
   "expectedPackageFiles": [
     "/Users/geraldmontufar/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/geraldmontufar/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",

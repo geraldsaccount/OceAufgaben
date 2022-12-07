@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/geraldmontufar/SAE/OceAufgaben/OceAufgaben/OceAufgaben.csproj": {}
+    "/Users/geraldmontufar/SAE/OceAufaben/OceAufgaben/OceAufgaben.csproj": {}
   },
   "projects": {
-    "/Users/geraldmontufar/SAE/OceAufgaben/OceAufgaben/OceAufgaben.csproj": {
+    "/Users/geraldmontufar/SAE/OceAufaben/OceAufgaben/OceAufgaben.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geraldmontufar/SAE/OceAufgaben/OceAufgaben/OceAufgaben.csproj",
+        "projectUniqueName": "/Users/geraldmontufar/SAE/OceAufaben/OceAufgaben/OceAufgaben.csproj",
         "projectName": "OceAufgaben",
-        "projectPath": "/Users/geraldmontufar/SAE/OceAufgaben/OceAufgaben/OceAufgaben.csproj",
+        "projectPath": "/Users/geraldmontufar/SAE/OceAufaben/OceAufgaben/OceAufgaben.csproj",
         "packagesPath": "/Users/geraldmontufar/.nuget/packages/",
-        "outputPath": "/Users/geraldmontufar/SAE/OceAufgaben/OceAufgaben/obj/",
+        "outputPath": "/Users/geraldmontufar/SAE/OceAufaben/OceAufgaben/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/geraldmontufar/.nuget/NuGet/NuGet.Config"
